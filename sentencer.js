@@ -6,7 +6,7 @@ sentencer.js is a library to break paragraphs of text into their component sente
 */
 
 /*
- * function Sentencer(inputText)
+ * function Sentencer()
  * (string)
  *
  * Creates the Sentencer object
