@@ -13,7 +13,7 @@ var sentencer = new Sentencer();
 var paragraph = 'The change of name from LiveScript to JavaScript roughly coincided'
 + ' with Netscape adding support for Java technology in its Netscape Navigator web '
 + 'browser. The final choice of name caused confusion, giving the impression that the'
-+ ' language was a spin-off of the Java programming language, and the choice has been
++ ' language was a spin-off of the Java programming language, and the choice has been'
 + ' characterized as a marketing ploy by Netscape to give JavaScript the cachet of what'
 + ' was then the hot new web programming language.';
 
