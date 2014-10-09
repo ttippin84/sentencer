@@ -1,0 +1,13 @@
+{
+  "name": "sentencer",
+  "version": "0.1.0",
+  "description": "Splits chunks of text into their component sentences.",
+  "main": "sentencer.js",
+  "keywords": [
+    "sentences",
+    "split",
+    "paragraphs"
+  ],
+  "author": "T.Tippin",
+  "license": "MIT"
+}
